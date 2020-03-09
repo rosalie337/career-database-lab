@@ -1,0 +1,26 @@
+{
+  "name": "career-database-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosalie337/career-database-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosalie337/career-database-lab/issues"
+  },
+  "homepage": "https://github.com/rosalie337/career-database-lab#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
