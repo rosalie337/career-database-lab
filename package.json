@@ -1,0 +1,19 @@
+{
+  "name": "03-tdd-model",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test:watch": "npm run test -- --watch",
+    "lint": "eslint '**/*.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "eslint": "^6.7.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {}
+}
